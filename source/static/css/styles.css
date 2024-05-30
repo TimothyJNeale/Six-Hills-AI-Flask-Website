@@ -40,3 +40,13 @@ body {
     justify-content: center;
     margin: 0 auto;
 }
+.page {
+    max-width: 800px;
+    padding: 0 1rem;
+}   
+
+.page__title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
